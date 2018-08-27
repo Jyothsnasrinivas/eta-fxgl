@@ -25,4 +25,4 @@ maven-depends:       com.github.almasb:fxgl:0.5.4
 
 **Credits**
 
-This example is inspired from the [FXGL sample](https://github.com/AlmasB/FXGL) by [Almas Baimagambetov](https://github.com/AlmasB).
+This example is inspired from the [FXGL samples](https://github.com/AlmasB/FXGL) by [Almas Baimagambetov](https://github.com/AlmasB).
