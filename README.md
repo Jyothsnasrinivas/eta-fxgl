@@ -1,6 +1,8 @@
 
 <h1 align="center">FXGL example in Eta</h1>
 
+**Note that this example is not using the [Direct Java Interop](https://github.com/typelead/eta/issues/647) feature and I've manually written the FFI imports for now. A better example is yet to come ;)**
+
 [FXGL](https://almasb.github.io/FXGL/) is a JavaFX Game Development Framework.
 
 This example is a proof of concept of FXGL library.
